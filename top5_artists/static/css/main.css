@@ -4,7 +4,7 @@
 }
 .banner{
     height: 95vh;
-    background-image: url(../static/css/music.jpg);
+    background-image: url(../images/music.jpg);
     background-size: cover;
     background-position: 35% 50%;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 100%);
